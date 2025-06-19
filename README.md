@@ -1,7 +1,5 @@
 # MonoSketch3D: A Dual-Channel Framework for 3D Shape Generation from Hand-Drawn Single-View Sketches
 
-This repository contains the official implementation of **MonoSketch3D**, a novel framework for 3D voxel generation from single-view sketches. Our BCwrite in markdown codemarkdown# MonoSketch3D: A Dual-Channel Framework for 3D Shape Generation from Hand-Drawn Single-View Sketches
-
 This repository contains the official implementation of **MonoSketch3D**, a novel framework for 3D voxel generation from single-view sketches. Our approach introduces a dual-channel processing design that extracts both pixel-wise and point-wise features from sketches, achieving a 23% improvement over the baseline Pix2Vox architecture.
 
 ## Overview
